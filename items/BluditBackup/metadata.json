@@ -16,8 +16,13 @@
     		"4":" package is created without the BluditBackup folder"
    
 	},
-	"description_de": "",
+	"description_de": "Einfaches Backup von bludit - mit Option in konkreten Ordner zu zippen",
 	"features_de": {
+		"0":"Einfache Handhabung",
+		"1":"Erstellt Zip Archive",
+		"2":"Liste des Backup-Zip-Archivs mit Loeschmoeglichkeit",
+		"3":"unterstuetzt Ganze Seite, Plugins-Ordner, Upload-Ordner, Seiten Ordner etc.",
+    		"4":"Das Package wird ohne den BluditBackup-Ordner erstellt"
 	},
 	"description_es": "",
 	"features_es": {
